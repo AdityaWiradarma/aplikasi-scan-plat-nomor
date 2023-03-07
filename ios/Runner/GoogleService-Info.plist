@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>171151443059-alfkrkbefit8nhd4tsq9d67vpvs1pk7q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.171151443059-alfkrkbefit8nhd4tsq9d67vpvs1pk7q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCE67ZlR1djJXMGe_UiBit2rAeARFBiqcg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>171151443059</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aplikasiScanPlatNomor</string>
+	<key>PROJECT_ID</key>
+	<string>aplikasi-scan-plat-nomor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aplikasi-scan-plat-nomor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:171151443059:ios:9ce61e84e98ffd747c1606</string>
+</dict>
+</plist>

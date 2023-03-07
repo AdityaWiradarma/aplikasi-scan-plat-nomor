@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171151443059",
+    "project_id": "aplikasi-scan-plat-nomor",
+    "storage_bucket": "aplikasi-scan-plat-nomor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171151443059:android:22f8d61b991ea41c7c1606",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_scan_plat_nomor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171151443059-6ngr6jm4e9ukc73kmjpg7233vm0ojvhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmQvfPvy8sXMRKx46qX_wNgl3udgY98U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171151443059-6ngr6jm4e9ukc73kmjpg7233vm0ojvhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
